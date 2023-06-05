@@ -3,7 +3,10 @@
 used to make the gif from videos 
 https://ezgif.com/video-to-gif
 -->
-### Single particle ODE (ordinary differential equation)
+
+
+
+## Single particle ODE (ordinary differential equation)
 
 <!-- 
 drag to move the ball , speed based on length of clicks 
@@ -27,7 +30,8 @@ The arrow visualizes the direction of the acting on the particle. The colour ran
 <img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/815226e4-5261-45de-84a9-a571303112e0.gif" width="400">
 
 
-### Rigid body simulation
+
+## Rigid body simulation
 
 <!-- 
 drag to move the ball , speed based on length of clicks 
@@ -37,6 +41,7 @@ press option and left click
 Rigid body simulation
 <!-- ![pba2](https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/b61c509e-d83f-40cf-91aa-953cef436fcc) -->
 <img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/b61c509e-d83f-40cf-91aa-953cef436fcc.gif" width="700">
+
 
 
 ## Spring mass system
