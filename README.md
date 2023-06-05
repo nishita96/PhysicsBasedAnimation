@@ -32,7 +32,7 @@ press option and left click
 -->
 Rigid body simulation
 <!-- ![pba2](https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/b61c509e-d83f-40cf-91aa-953cef436fcc) -->
-<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/b61c509e-d83f-40cf-91aa-953cef436fcc.gif" width="500">
+<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/b61c509e-d83f-40cf-91aa-953cef436fcc.gif" width="700">
 
 
 ## HW3
@@ -46,9 +46,9 @@ Spring mass free fall
 
 Mouse interaction 
 <!-- ![pba3_freefall_mouseforce](https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/67abcb10-7a43-47d0-bbd4-c1679da9843f) -->
-<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/67abcb10-7a43-47d0-bbd4-c1679da9843f.gif" width="500">
+<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/67abcb10-7a43-47d0-bbd4-c1679da9843f.gif" width="700">
 
 Fixed node
 <!-- ![pba3_fixednode](https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/201bcd78-005d-488c-ba73-48461d46b109) -->
-<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/201bcd78-005d-488c-ba73-48461d46b109.gif" width="500">
+<img src="https://github.com/nishita96/PhysicsBasedAnimation/assets/24264347/201bcd78-005d-488c-ba73-48461d46b109.gif" width="700">
 
